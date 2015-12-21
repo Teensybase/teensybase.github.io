@@ -29,3 +29,7 @@ Last, but certainly not the least; huge thanks go to the amazing designer of Tee
 ###Images
 
 All images should be source attributed, preferably to their original author using [these guidelines](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_a_pretty_good_attribution).
+
+If image cannot be attributed on the same page, list the attribution here with a link to the photo.
+
+[[Homepage photo](http://localhost:4000/images/teensy32perspective.jpg) by macaba / [CC BY](http://creativecommons.org/licenses/by/4.0/)]

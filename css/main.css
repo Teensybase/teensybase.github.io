@@ -80,7 +80,7 @@ body.rtl ul, body.rtl ol {
 
 i.border {
     padding: 10px 20px;
-    background-color: whitesmoke;
+    /*background-color: whitesmoke;*/
 }
 
 .kbCaption {
