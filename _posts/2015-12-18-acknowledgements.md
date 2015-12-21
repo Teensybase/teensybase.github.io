@@ -28,4 +28,4 @@ Last, but certainly not the least; huge thanks go to the amazing designer of Tee
 
 ###Images
 
-All images should be source attributed, preferably to their original author.
+All images should be source attributed, preferably to their original author using [these guidelines](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_a_pretty_good_attribution).
