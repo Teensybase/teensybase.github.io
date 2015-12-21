@@ -14,6 +14,6 @@ tags: homepage
 		<a class="noCrossRef" href="{{ site.baseurl }}/hardware/comparison"><i class="fa fa-bar-chart-o fa-8x border"></i><div class="kbCaption">Comparison of Teensy models</div></a>
 	</div>
 	<div class="col-md-4">
-		<a class="noCrossRef" href="{{ site.baseurl }}/teensybase/compile"><i class="fa fa-code fa-8x border"></i><div class="kbCaption">Run Teensybase locally</div></a>
+		<a class="noCrossRef" href="{{ site.baseurl }}/teensybase/contributing"><i class="fa fa-code fa-8x border"></i><div class="kbCaption">Contribute to Teensybase</div></a>
 	</div>
 </div>
