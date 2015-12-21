@@ -8,7 +8,7 @@ tags: homepage
 </div>
 
 {:refdef: style="text-align: center;"}
-![Teensy 3.2 Perspective]({{ site.url }}/images/teensy32perspective.jpg)
+![Teensy 3.2 Perspective]({{ site.baseurl }}/images/teensy32perspective.jpg)
 {: refdef}
 
 <div class="text-center">
