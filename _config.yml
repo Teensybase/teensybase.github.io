@@ -19,13 +19,14 @@ codeurl: 'http://pjrc.com/teensy/index.html'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['tutorials', 'Tutorials'],
+  ['tutorials', 'Tutorials'],
 	['hardware', 'Hardware'],
+  ['hwaddons', 'Hardware Addons'],
 	['software', 'Software'],
 	['peripherals', 'Peripherals'],
 	['libraries', 'Libraries'],
-    ['reference', 'Reference'],
-    ['teensybase', 'Teensybase']
+  ['reference', 'Reference'],
+  ['teensybase', 'Teensybase']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific

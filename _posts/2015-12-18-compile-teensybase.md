@@ -29,7 +29,7 @@ All pages are written using a dialect of Markdown. [Markdown Cheat sheet.](http:
 ####Install Jekyll
 
 - Install [Chocolatey](https://chocolatey.org/) (if not already installed).
-- Run these commands in an Administrator command prompt
+- Run these commands in an Administrator command prompt. You will probably have to close and reopen the administrator command prompt after each command is complete.
 
 	```
 	choco install ruby -y
